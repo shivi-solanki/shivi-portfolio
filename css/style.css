@@ -292,6 +292,7 @@ nav.sticky{
         right: 15px;
         bottom: 15px;
         left:15px;
+   height: 70%;
         z-index: 9999;
         overflow-y: auto ;
         background: rgba(53, 49, 49, 0.904);
@@ -759,9 +760,9 @@ section .container {
 }
 @media (max-width:1024px){
   .contact .info-box .social-link a i{
-      font-size: 17px;
-     margin-right: 5px;
-     padding: 4px;
+      font-size: 14px;
+     margin-right: 3px;
+     
   }
 }
 .contact .info-box .social-link a:hover i{
