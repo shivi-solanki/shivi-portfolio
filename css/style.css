@@ -757,6 +757,13 @@ section .container {
   margin-right: 12px;
   transition: 0.3s;
 }
+@media (max-width:1024px){
+  .contact .info-box .social-link a i{
+      font-size: 17px;
+     margin-right: 5px;
+     padding: 4px;
+  }
+}
 .contact .info-box .social-link a:hover i{
      color: #0044ff;
 }
