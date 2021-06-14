@@ -658,8 +658,8 @@ section .container {
   margin: 20px auto;
 }
 .portfolio .box img{
-     height: 200px;
-     width: 300px;
+     height: 100%;
+     width: 100%;
 }
 .portfolio .box h4{
    font-size: 20px;
