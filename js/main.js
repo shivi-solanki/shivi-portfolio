@@ -14,7 +14,7 @@ icon.onclick = function(){
        icon.innerHTML ="<i class='bx bx-sun'></i>" ;
     }
 }
-var icon = document.getElementById("icon");
+var icon = document.getElementById("icon1");
 
 icon.onclick = function(){
       document.body.classList.toggle("white-theme");
